@@ -1,4 +1,4 @@
-import Dialog from "./src/Echarts.vue";
+import Dialog from "./src/Dialog.vue";
 
 Dialog.install = (Vue) => Vue.component(Dialog.name, Dialog);
 
